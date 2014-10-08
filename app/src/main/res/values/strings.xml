@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EatAround</string>
+    <string name="action_settings">Settings</string>
+    <string name="xoffset"></string>
+    <string name="yoffset"></string>
+    <string name="zoffset"></string>
+    <string name="text3_string">Hello World</string>
+
+</resources>
